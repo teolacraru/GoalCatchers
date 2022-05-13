@@ -1,2 +1,2 @@
-# GoalCatchers
-Colegiul Național Mircea cel Bătrân
+Echipa: GoalCatchers
+Colegiul Național Mircea cel Bătrân - liceu 
